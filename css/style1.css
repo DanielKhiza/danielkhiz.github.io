@@ -1,0 +1,25 @@
+.reasons {
+    display: flex;
+}
+
+.FIRST,
+.Second,
+.Second-2 {
+    padding: 70px 0 30px 0;
+    color: blueviolet;
+}
+
+.Thirthd,
+.Fourth {
+    color: rgb(218, 139, 22);
+}
+
+.Fifth,
+.SIX {
+    color: red;
+}
+
+.SEVEN,
+.Eightn {
+    color: green;
+}
